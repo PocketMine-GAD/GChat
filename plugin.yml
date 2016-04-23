@@ -1,0 +1,5 @@
+name: GChat
+author: PocketMine-GAD
+version: 1.0.0
+api: [2.0.0]
+main: GAD\Main
